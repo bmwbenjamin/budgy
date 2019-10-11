@@ -1,5 +1,6 @@
 # budgy
 Budgety Solution
+
 This is a project to convert the family budget out of spreadsheets and into something more structured and powerful.  Since the term "budget" may be misleading, major features include:
 - Budgetting
  - Multiple versions of annual budgets
